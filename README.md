@@ -75,9 +75,6 @@ Directives from this repository are automatically tested with the following brow
 
 Modern mobile browsers should work without problems.
 
-> **Internet Explorer 8 support**
-
-> Since AngularJS 1.3, the Angular team has stopped supporting Internet Explorer 8. From UI Bootstrap version `0.13.0` on, we will update the AngularJS dependency to version 1.3 and by doing so **we will drop all Internet Explorer 8 support**. (New) issues regarding Internet Explorer 8 will be closed.
 
 ## Need help?
 Need help using UI Bootstrap?
