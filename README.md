@@ -4,7 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.svg)](http://travis-ci.org/angular-ui/bootstrap)
 [![devDependency Status](https://david-dm.org/angular-ui/bootstrap/dev-status.svg?branch=master)](https://david-dm.org/angular-ui/bootstrap#info=devDependencies)
 
-### Table of Contents
+### Quick links
 - [Demo](#demo)
 - [Installation](#installation)
     - [Bower](#Install with Bower)
